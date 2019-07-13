@@ -1,0 +1,10 @@
+<resources>
+	<string name = "app_name">HomeWork3</string>
+	<string name = "todo">TODO</string>
+	<string name = "_description">Description</string>
+	<string name = "important">important</string>
+	<string name = "ordinary">ordinary</string>
+	<string name = "unimportant">unimportant</string>
+	<string name = "_name">Name</string>
+	<string name = "browse">Browse</string>
+</resources>
